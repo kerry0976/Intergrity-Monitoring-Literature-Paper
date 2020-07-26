@@ -48,5 +48,6 @@ Young, Ryan, "Fault Detection and Exclusion Using Normalized Solution Separation
 Brenner, Mats, "Integrated GPS/Inertial Fault Detection Availaiblity", 1996.   
 
 ## PhD Thesis
+Ober, Pieter, "Integrity Prediction and Monitoring of Navigation Systems", 2003.  
 Palmqvist, Jan, "On Integrity Monitoring of Integrated Navigation Systems", 1997.   
 Pervan, Boris, "Navigation Integrity for Aircraft Precision Landing using the Global Positioning System", Stanford, 1996.   
